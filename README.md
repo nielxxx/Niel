@@ -1,5 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]()
 <h1 align="center">Hi 👋, I'm Niel and I'm a Front End Website Developer</h1>
 <h3 align="center">As a Front End Website Developer, I will leverage my skills and expertise as a web developer to create innovative and user-friendly websites and applications. I aim to contribute to a dynamic and collaborative team, where I can utilize my programming knowledge and problem-solving abilities to deliver high-quality, responsive, and visually appealing web solutions that meet client needs and exceed their expectations</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nielxxx&label=Profile%20views&color=0e75b6&style=flat" alt="nielxxx" /> </p>
 
